@@ -39,4 +39,23 @@ This project was developed for learning and practice purposes to strengthen conc
 
 This project was created as a hands-on learning project to gain practical experience with full-stack Java development using the Spring ecosystem.
 
-<a href="https://github.com/SakshiManjrekar162/student-management-system/blob/main/screenshots/LoginPage.png"></a>
+## Screenshots
+<p>
+  <img src="https://github.com/SakshiManjrekar162/student-management-system/blob/main/screenshots/LoginPage.png" />
+</p>
+
+<p>
+  <img src="https://github.com/SakshiManjrekar162/student-management-system/blob/main/screenshots/DasboardPage.png" />
+</p>
+
+<p>
+  <img src="https://github.com/SakshiManjrekar162/student-management-system/blob/main/screenshots/Students.png" />
+</p>
+
+<p>
+  <img src="https://github.com/SakshiManjrekar162/student-management-system/blob/main/screenshots/AddCoursePage.png" />
+</p>
+
+<p>
+  <img src="https://github.com/SakshiManjrekar162/student-management-system/blob/main/screenshots/LogoutPage.png" />
+</p>
